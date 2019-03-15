@@ -1,0 +1,5 @@
+/** Override default reveal.JS styles ***/
+.reveal section img { background:none; border:none; box-shadow:none; }
+
+#left-align {text-align: left;float: left;}
+.white {color:#FFF !important;}
